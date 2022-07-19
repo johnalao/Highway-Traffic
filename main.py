@@ -1,3 +1,4 @@
+#instances ad Higher order functions
 import time
 from turtle import Turtle, Screen
 from player import Player
